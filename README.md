@@ -1,2 +1,2 @@
 # todoList
-A simple todo list created through Watch and Code.
+A simple todo list created from watchandcode.com
