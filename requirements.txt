@@ -31,8 +31,8 @@ Version 6
 Version 7
 [x] It should have a button for displaying todos.
 [x] The displayTodos button should run the displayTodos function.
-[] It should have a toggleAll button.
-[] The toggleAll button should run the toggleAll function.
+[x] It should have a toggleAll button.
+[x] The toggleAll button should run the toggleAll function.
 
 Version 8
 [x] There should be a working button for adding a todo.
@@ -47,7 +47,7 @@ Version 9
 
 Version 10
 [x] Each todo should have its own remove button.
-[] The remove buttons should actually work.
+[x] The remove buttons should actually work.
 
 Version 11
 [x] Each todo should have its own toggle button.
